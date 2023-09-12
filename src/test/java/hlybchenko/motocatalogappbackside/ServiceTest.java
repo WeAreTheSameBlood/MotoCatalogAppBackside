@@ -1,5 +1,7 @@
 package hlybchenko.motocatalogappbackside;
 
+import hlybchenko.motocatalogappbackside.models.TestModel;
+import hlybchenko.motocatalogappbackside.services.Service;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

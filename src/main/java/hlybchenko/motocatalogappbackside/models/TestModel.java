@@ -1,4 +1,4 @@
-package hlybchenko.motocatalogappbackside;
+package hlybchenko.motocatalogappbackside.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

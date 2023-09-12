@@ -1,5 +1,7 @@
-package hlybchenko.motocatalogappbackside;
+package hlybchenko.motocatalogappbackside.controllers;
 
+import hlybchenko.motocatalogappbackside.models.TestModel;
+import hlybchenko.motocatalogappbackside.services.Service;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

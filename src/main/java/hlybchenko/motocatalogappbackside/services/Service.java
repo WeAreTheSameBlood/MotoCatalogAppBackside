@@ -1,4 +1,6 @@
-package hlybchenko.motocatalogappbackside;
+package hlybchenko.motocatalogappbackside.services;
+
+import hlybchenko.motocatalogappbackside.models.TestModel;
 
 @org.springframework.stereotype.Service
 public class Service {
